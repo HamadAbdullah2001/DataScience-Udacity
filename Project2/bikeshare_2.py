@@ -7,6 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 print("My name is hamad")
+print("Welcome to bikeshare project")
 
 def get_filters():
     """
